@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\nashe\desktop\c++ files\homework2v2\source.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\nashe\desktop\c++ files\homework2v2\source.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\nashe\desktop\c++ files\homework2v2\source.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\nashe\desktop\c++ files\homework2v2\source.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\nashe\desktop\c++ files\homework2v2\source.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\nashe\desktop\c++ files\homework2v2\source.cpp(253): warning C4018: '<': signed/unsigned mismatch
+  Homework2v2.vcxproj -> C:\Users\nashe\Desktop\C++ files\Homework2v2\Debug\Homework2v2.exe

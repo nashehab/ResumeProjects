@@ -1,0 +1,144 @@
+Nasheha Baset
+Please choose an option from the menu below by typing the number corresponding to the choice.
+1. Input Vector
+2. Show Vector
+3. Find Min
+4. Find Max
+5. Total
+6. Average
+7. Variance
+8. Standard Deviation
+9. Quit
+--------------
+1
+Please enter one or more floating point numbers. When finished, enter 'q'.
+1
+10
+100
+q
+--------------
+Please choose an option from the menu below by typing the number corresponding to the choice.
+1. Input Vector
+2. Show Vector
+3. Find Min
+4. Find Max
+5. Total
+6. Average
+7. Variance
+8. Standard Deviation
+9. Quit
+--------------
+2
+1
+10
+100
+
+--------------
+Please choose an option from the menu below by typing the number corresponding to the choice.
+1. Input Vector
+2. Show Vector
+3. Find Min
+4. Find Max
+5. Total
+6. Average
+7. Variance
+8. Standard Deviation
+9. Quit
+--------------
+3
+The minimum value is 1.
+
+--------------
+Please choose an option from the menu below by typing the number corresponding to the choice.
+1. Input Vector
+2. Show Vector
+3. Find Min
+4. Find Max
+5. Total
+6. Average
+7. Variance
+8. Standard Deviation
+9. Quit
+--------------
+4
+The maximum value is 100.
+
+--------------
+Please choose an option from the menu below by typing the number corresponding to the choice.
+1. Input Vector
+2. Show Vector
+3. Find Min
+4. Find Max
+5. Total
+6. Average
+7. Variance
+8. Standard Deviation
+9. Quit
+--------------
+5
+The total is 111.
+--------------
+Please choose an option from the menu below by typing the number corresponding to the choice.
+1. Input Vector
+2. Show Vector
+3. Find Min
+4. Find Max
+5. Total
+6. Average
+7. Variance
+8. Standard Deviation
+9. Quit
+--------------
+6
+The total is 111.
+The average is 37.
+--------------
+Please choose an option from the menu below by typing the number corresponding to the choice.
+1. Input Vector
+2. Show Vector
+3. Find Min
+4. Find Max
+5. Total
+6. Average
+7. Variance
+8. Standard Deviation
+9. Quit
+--------------
+7
+The total is 111.
+The average is 37.
+The variance is 1998.
+--------------
+Please choose an option from the menu below by typing the number corresponding to the choice.
+1. Input Vector
+2. Show Vector
+3. Find Min
+4. Find Max
+5. Total
+6. Average
+7. Variance
+8. Standard Deviation
+9. Quit
+--------------
+8
+The total is 111.
+The average is 37.
+The variance is 1998.
+The standard deviation is 44.699.
+--------------
+Please choose an option from the menu below by typing the number corresponding to the choice.
+1. Input Vector
+2. Show Vector
+3. Find Min
+4. Find Max
+5. Total
+6. Average
+7. Variance
+8. Standard Deviation
+9. Quit
+--------------
+9
+--------------
+
+C:\Users\nashe\Desktop\C++ files\Homework2v2\Debug\Homework2v2.exe (process 4812) exited with code 0.
+Press any key to close this window . . .

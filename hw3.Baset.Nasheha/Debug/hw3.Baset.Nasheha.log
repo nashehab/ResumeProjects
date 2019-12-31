@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\nashe\desktop\cs homework 3\hw3.baset.nasheha\source.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\nashe\desktop\cs homework 3\hw3.baset.nasheha\source.cpp(190): warning C4101: 'delim': unreferenced local variable
+c:\users\nashe\desktop\cs homework 3\hw3.baset.nasheha\source.cpp(189): warning C4101: 'count': unreferenced local variable
+c:\users\nashe\desktop\cs homework 3\hw3.baset.nasheha\source.cpp(188): warning C4101: 'temp': unreferenced local variable
+c:\users\nashe\desktop\cs homework 3\hw3.baset.nasheha\source.cpp(273): warning C4018: '<': signed/unsigned mismatch
+c:\users\nashe\desktop\cs homework 3\hw3.baset.nasheha\source.cpp(294): warning C4018: '<': signed/unsigned mismatch
+c:\users\nashe\desktop\cs homework 3\hw3.baset.nasheha\source.cpp(315): warning C4018: '<': signed/unsigned mismatch
+  hw3.Baset.Nasheha.vcxproj -> C:\Users\nashe\Desktop\CS Homework 3\hw3.Baset.Nasheha\Debug\hw3.Baset.Nasheha.exe
