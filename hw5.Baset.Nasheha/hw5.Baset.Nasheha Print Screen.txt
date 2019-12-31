@@ -1,0 +1,58 @@
+Nasheha Baset
+Please choose an option from the menu below by typing the number corresponding to the choice.
+1. Load the container.
+2. Traverse.
+3. Quit
+-------------------------------------
+1
+-------------------------------------
+Please choose an option from the menu below by typing the number corresponding to the choice.
+1. Load the container.
+2. Traverse.
+3. Quit
+-------------------------------------
+2
+123-000-0074:  brt!
+123-000-0094:  Go! Go! Ro! Bot! Phone!
+123-000-0082:  Beep!
+123-000-0055:  brt!
+123-000-0071:  Go! Go! Ro! Bot! Phone!
+123-000-0052:  brt!
+123-000-0061:  Beep!
+123-000-0023:  Beep!
+123-000-0021:  Go! Go! Ro! Bot! Phone!
+123-000-0085:  brt!
+123-000-0061:  brt!
+123-000-0092:  Beep!
+123-000-0095:  brt!
+123-000-0031:  Beep!
+123-000-0033:  brt!
+123-000-0011:  brt!
+123-000-0087:  brt!
+123-000-0027:  brt!
+123-000-0093:  Beep!
+123-000-0098:  Beep!
+123-000-0050:  Go! Go! Ro! Bot! Phone!
+123-000-0086:  Beep!
+123-000-0024:  Go! Go! Ro! Bot! Phone!
+123-000-0065:  Go! Go! Ro! Bot! Phone!
+123-000-0090:  brt!
+123-000-0061:  brt!
+123-000-0089:  Beep!
+123-000-0044:  brt!
+123-000-0006:  Beep!
+123-000-0018:  brt!
+123-000-0096:  Beep!
+123-000-0078:  Go! Go! Ro! Bot! Phone!
+123-000-0029:  brt!
+123-000-0035:  brt!
+123-000-0084:  Go! Go! Ro! Bot! Phone!
+123-000-0076:  Beep!
+123-000-0061:  brt!
+-------------------------------------
+Please choose an option from the menu below by typing the number corresponding to the choice.
+1. Load the container.
+2. Traverse.
+3. Quit
+-------------------------------------
+3
